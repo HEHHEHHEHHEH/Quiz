@@ -32,7 +32,7 @@
             <label for="option4" class="options"></label>
         </div>
         <br><br>
-        <button onclick="submit()" class="sty">Submit</button>
+        <button onclick="submit()" class="sty" id="">Submit</button>
     </div>
 
 
